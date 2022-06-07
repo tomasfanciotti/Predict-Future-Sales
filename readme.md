@@ -3,7 +3,7 @@
 Competition: https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview
 
 
-## File descriptions
+## File descriptions
 
 * ``sales_train.csv`` - the training set. Daily historical data from January 2013 to October 2015.
 
@@ -19,7 +19,7 @@ Competition: https://www.kaggle.com/competitions/competitive-data-science-predic
 
 
 
-## Data Fields
+## Data Fields
 
 * ``ID`` - an Id that represents a (Shop, Item) tuple within the test set.
 * ``shop_id`` - unique identifier of a shop
